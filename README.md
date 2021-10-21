@@ -36,7 +36,7 @@ Here are some ideas to get you started:
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/CrackerSuman?color=333333&labelColor=111111&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 <a href="https://discord.com/channels/@me/760103513400279040">
 <!--     <img alt="chat" title="Talk to me on Discord" src="![](https://dcbadge.vercel.app/api/shield/760103513400279040)"/> -->
-  <img src="https://dcbadge.vercel.app/api/shield/bot/USERID" />
+  <img src="https://dcbadge.vercel.app/api/shield/bot/488947950807023616" />
 
   </a>
 </p>
