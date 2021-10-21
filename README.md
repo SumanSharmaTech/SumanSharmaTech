@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <a href="https://github.com/CrackerSuman">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/CrackerSuman?color=333333&labelColor=111111&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 <a href="https://discord.com/channels/@me/760103513400279040">
-    <img alt="chat" title="Talk to me on Discord" src="https://dcbadge.vercel.app/api/shield/760103513400279040"/></a>
+    <img alt="chat" title="Talk to me on Discord" src="![](https://dcbadge.vercel.app/api/shield/760103513400279040)"/></a>
 </p>
 
 ![Snake animation](https://github.com/parajulibkrm/parajulibkrm/blob/output/github-contribution-grid-snake.svg)
