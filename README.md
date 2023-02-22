@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/mr__suman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="CrackerSuman" height="30" width="40" /></a>
 </p>
 <p align="center">
-  <a href="https://twitter.com/MR__suman">
-    <img alt="followers" title="Follow me on Twitter" src="https://custom-icon-badges.herokuapp.com/twitter/follow/MR__suman?color=236ad3&labelColor=1da1f2&label=Follow&logo=twitter-outline&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://github.com/CrackerSuman">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/CrackerSuman?color=333333&labelColor=111111&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://twitter.com/SumanSharmaTech">
+    <img alt="followers" title="Follow me on Twitter" src="https://custom-icon-badges.herokuapp.com/twitter/follow/SumanSharmaTech?color=236ad3&labelColor=1da1f2&label=Follow&logo=twitter-outline&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/SumanSharmaTech">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/SumanSharmaTech?color=333333&labelColor=111111&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 <a href="https://discord.com/channels/@me/760103513400279040">
     <img alt="chat" title="Talk to me on Discord" src="https://dcbadge.vercel.app/api/shield/488947950807023616"/>
 <!--   <img src="https://dcbadge.vercel.app/api/shield/bot/488947950807023616" /> -->
