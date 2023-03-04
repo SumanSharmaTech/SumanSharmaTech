@@ -21,13 +21,13 @@ Here are some ideas to get you started:
 </h3>
 
 <p align="center">
-  <a href="https://github.com/CrackerSuman"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=A+learner%2C+maker+and+designer.;A+full-stack+Developer.;Student+of+Computer+Science+and+Information+Technology"></a>
+  <a href="https://github.com/SumanSharmaTech"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=A+learner%2C+maker+and+designer.;A+full-stack+Developer.;Student+of+Computer+Science+and+Information+Technology"></a>
 </p>
 <p align="center">
-  <a href="https://twitter.com/MR__suman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="CrackerSuman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mangaldada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="CrackerSuman" height="30" width="40" /></a>
-<a href="https://fb.com/troller.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="CrackerSuman" height="30" width="40" /></a>
-<a href="https://instagram.com/mr__suman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="CrackerSuman" height="30" width="40" /></a>
+  <a href="https://twitter.com/SumanSharmaTech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="CrackerSuman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/SumanSharmaTech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="CrackerSuman" height="30" width="40" /></a>
+<a href="https://fb.com/SumanSharmaTech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="CrackerSuman" height="30" width="40" /></a>
+<a href="https://instagram.com/SumanSharmaTech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="CrackerSuman" height="30" width="40" /></a>
 </p>
 <p align="center">
   <a href="https://twitter.com/SumanSharmaTech">
@@ -62,20 +62,20 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CrackerSuman&theme=algolia&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SumanSharmaTech&theme=algolia&hide_border=true" />
 </p>
 <br/>
 <p align="center">
-    <img  alt="Suman's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=CrackerSuman&show_icons=true&count_private=true&theme=algolia&hide_border=true" height="192px"/>
+    <img  alt="Suman's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=SumanSharmaTech&show_icons=true&count_private=true&theme=algolia&hide_border=true" height="192px"/>
 </p>
 <p align="center">
-    <img alt="Suman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrackerSuman&langs_count=8&layout=compact&theme=algolia&hide_border=true" height="192px"/>
+    <img alt="Suman's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumanSharmaTech&langs_count=8&layout=compact&theme=algolia&hide_border=true" height="192px"/>
 </p>
   
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-![](https://activity-graph.herokuapp.com/graph?username=CrackerSuman&custom_title=Suman%27s%20Contribution%20Graph&theme=react-dark)
+![](https://activity-graph.herokuapp.com/graph?username=SumanSharmaTech&custom_title=Suman%27s%20Contribution%20Graph&theme=react-dark)
 
 <hr>
 
