@@ -86,7 +86,5 @@ Here are some ideas to get you started:
 
 
 
-If you wish to contact me please shoot a mail at  [Premium Mail](mailto:crazyuser@gmail.com)
+If you wish to contact me please shoot a mail [here.](mailto:crazyuser@gmail.com)
 
-
-![](assets/bottom_header.svg)
