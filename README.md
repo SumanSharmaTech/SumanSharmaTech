@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 <p align="center">
-  ![](https://komarev.com/ghpvc/?username=SumanSharmaTech&color=green)
+  <img src=https://komarev.com/ghpvc/?username=SumanSharmaTech&style=for-the-badge alt=SumanSharmaTech/>
 </p>
 
 <picture>
