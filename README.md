@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 <p align="center">
-  <img src=https://komarev.com/ghpvc/?username=SumanSharmaTech&style=for-the-badge&base=1000 alt=SumanSharmaTech/>
+  <img src=https://komarev.com/ghpvc/?username=SumanSharmaTech&style=for-the-badge&base=1024 alt=SumanSharmaTech/>
 </p>
 
 <picture>
