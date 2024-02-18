@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 <a href="https://open.spotify.com/user/jykt9hk1f4pzosr7um2ard7wt" target="_blank"><img align="right" alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></a>
 
 <p align="center">
-  <a href="https://open.spotify.com/user/jykt9hk1f4pzosr7um2ard7wt" target="_blank"><img src="https://spotify.bikram.io/api?theme=dark&rainbow=true" /></a>
+  <a href="https://open.spotify.com/user/jykt9hk1f4pzosr7um2ard7wt" target="_blank"><img src="https://spotify.sumansharma1.com.np/api?theme=dark&rainbow=true" /></a>
 </p>
 
 
